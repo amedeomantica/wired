@@ -19,11 +19,11 @@ These are usually distributed with operating systems.
 
 **Debian/Ubuntu**
 
-	sudo apt-get install -y build-essential git libsqlite3-dev libxml2-dev libssl-dev zlib1g-dev
+	sudo apt-get install -y build-essential autoconf git libsqlite3-dev libxml2-dev libssl-dev zlib1g-dev
 
 **CentOS/Fedora**
 
-	sudo yum -y install git openssl-devel sqlite3 libxml2 zlib-devel gcc make
+	sudo yum -y install git openssl-devel sqlite3 libxml2 zlib-devel autoconf gcc make
 
 ### Getting started
 
