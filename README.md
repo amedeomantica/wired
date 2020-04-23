@@ -21,9 +21,13 @@ These are usually distributed with operating systems.
 
 	sudo apt-get install -y build-essential autoconf git libsqlite3-dev libxml2-dev libssl-dev zlib1g-dev
 
-**CentOS/Fedora**
+**CentOS 7**
 
-	sudo yum -y install git libtool openssl-devel libsqlite3x-devel libxml2-devel zlib-devel autoconf gcc make
+	sudo yum -y install git libtool openssl-devel sqlite-devel.x86_64 libxml2-devel zlib-devel autoconf gcc make
+
+**CentOS 8 / Fedora 28/29/30/31 (and probably even older versions)**
+
+	sudo yum -y install git libtool openssl-devel sqlite-devel libxml2-devel zlib-devel autoconf gcc make
 
 ### Getting started
 
