@@ -1,4 +1,4 @@
-# Wired Server 2.0
+# Wired Server 2.5
 
 Wired Server is BBS-oriented server for UNIX-based operating systems. It uses [libwired](https://github.com/nark/libwired) and provide an implementation of the Wired 2.0 protocol. This project is a fork of the original Wired Server developed by Axel Andersson at [Zanka Software](http://zankasoftware.com/).
 
@@ -101,7 +101,7 @@ By default a user with the login "admin" and no password is created. Use Wired C
 
 ### Get More
 
-If you are interested in the Wired project, check the Wired Wiki at [http://wired.read-write.fr/](http://wired.read-write.fr)
+If you are interested in the Wired project, check the Website at [https://wired.read-write.fr/](https://wired.read-write.fr)
 
 ### Troubleshootings
 
