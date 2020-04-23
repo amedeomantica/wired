@@ -44,7 +44,6 @@ Then move to the `wired` directory:
 Initialize and update submodules repositories:
 
 	git submodule update --init --recursive --remote
-
 	libwired/bootstrap
 
 Then check that the `libwired` directory was not empty and `configure` file exists.
