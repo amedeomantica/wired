@@ -25,7 +25,7 @@ These are usually distributed with operating systems.
 
 	sudo yum -y install git libtool openssl-devel sqlite-devel.x86_64 libxml2-devel zlib-devel autoconf gcc make
 
-**CentOS 8 / Fedora 28/29/30/31 (and probably even older versions)**
+**CentOS 8 / Fedora 28/29/30/31 (and probably even older versions of Fedora)**
 
 	sudo yum -y install git libtool openssl-devel sqlite-devel libxml2-devel zlib-devel autoconf gcc make
 
